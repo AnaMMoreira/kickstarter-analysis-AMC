@@ -23,16 +23,16 @@ Overall and preliminary data analysis determined that theater outcomes in the U.
 filtering of this dataset revealed that the subcategory for Plays within the Theater market was even more often successful. 
 This can be view in charts TheaterOutcomme-US and PlayOutcomme-US
 
-! [TheaterOutcomme-US chart] (https://columbia.bootcampcontent.com/cinzasdanjo-MRNbby/kickstarter-analysis-amc/-/blob/main/TheaterOutcomme-US.png)
+! [TheaterOutcomme-US chart] (https://github.com/AnaMMoreira/kickstarter-analysis-AMC/blob/main/TheaterOutcomme-US.png)
 
-! [PlayOutcomme-US chart] (https://columbia.bootcampcontent.com/cinzasdanjo-MRNbby/kickstarter-analysis-amc/-/blob/main/PlayOutcomme-US.png)
+! [PlayOutcomme-US chart] (https://github.com/AnaMMoreira/kickstarter-analysis-AMC/blob/main/PlayOutcomme-US.png)
 
 
 Kickstarter project creators can add incentives for different pledge amounts. In order to help Louise set up her incentives,
 determining how much money people have pledged to campaigns historically will be helpful.
 A quick look at the average donation yielded the following table.
 
-! [Table of Stats for U.S. Play Campaigns] (https://columbia.bootcampcontent.com/cinzasdanjo-MRNbby/kickstarter-analysis-amc/-/blob/main/Stats_for_US_Campains.pdf)
+! [Table of Stats for U.S. Play Campaigns] (https://github.com/AnaMMoreira/kickstarter-analysis-AMC/blob/main/Stats_for_US_Campains.pdf)
 
 **Observations**
 
@@ -45,7 +45,7 @@ Furthermore, a look at Similar Plays in Great Britain can help solidify that suc
 However, it also by comparison, seems to point to an exagerated goal of $10,000 vs average goals that were closer to $2,000.
 A sumary table of these Plays can be view in table Average Donation for Similar Projects in Great Britain.
 
-! [Table  AveDonation_of-Like-Plays] (https://columbia.bootcampcontent.com/cinzasdanjo-MRNbby/kickstarter-analysis-amc/-/blob/main/AveDonation_of-Like-Plays.pdf)
+! [Table  AveDonation_of-Like-Plays] (https://github.com/AnaMMoreira/kickstarter-analysis-AMC/blob/main/AveDonation_of-Like-Plays.pdf)
 
 
 This table also seems to suggest that the overall average donation for this type of project was $119.  that is a promissing number because 
@@ -58,7 +58,7 @@ A graphic interpretation of Outcomes Based on Goals depicted below suggests that
 However, there seems to be a rise in sucess after a goal of $25,000 to $30,000 at which point it decreases again.  Another spike is observed at $40,000 which could be an outlier or perhaps suggesting unreliable data.
 Another assumption is that the Goals is not a determining factor of success and something else is imfluencing the outcome. 
 
- ! [Chart Outcomes_vs_Goals] (https://columbia.bootcampcontent.com/cinzasdanjo-MRNbby/kickstarter-analysis-amc/-/blob/main/Outcomes_vs_Goals.png)
+ ! [Chart Outcomes_vs_Goals] (https://github.com/AnaMMoreira/kickstarter-analysis-AMC/blob/main/Outcomes_vs_Goals.png)
 
 
 ## **Analysis of Outcomes Based on Launch Date**
@@ -66,13 +66,13 @@ Another assumption is that the Goals is not a determining factor of success and 
 Since the previous data analysis resulted in the conclusion that the project is viable in the US and it may not be dependant on the Funding Goals a further look into the timing of the historical campains was worth the effort.
 After sorting the data further to look at monthly trends of all Theater outcome data the following chart was generated. 
  
- ! [chart Theater_Outcomes_vs_Launch] (https://columbia.bootcampcontent.com/cinzasdanjo-MRNbby/kickstarter-analysis-amc/-/blob/main/Theater_Outcomes_vs_Launch.png)
+ ! [chart Theater_Outcomes_vs_Launch] (https://github.com/AnaMMoreira/kickstarter-analysis-AMC/blob/main/Theater_Outcomes_vs_Launch.png)
 
 It can be seen that a seasonal pattern is suggested by this analysis and that perhaps campaigns launched after March through August might be more sucessful than during the winter months.  With the lowest sucessrates from November to March
 
 If one was to take that data just a step further and normalise it to a percentages however, it can be deduced that the Seasonal patern is not as pronounced as it seemed.  Meaning that perhaps the seasonal pattern previously observed was a result of more campains being launched during the spring and summer times.
 
- ! [chart Theater_PercentageOutcomes_vs_Launch] (https://columbia.bootcampcontent.com/cinzasdanjo-MRNbby/kickstarter-analysis-amc/-/blob/main/Theater_PercentageOutcomes_vs_Launch.png)
+ ! [chart Theater_PercentageOutcomes_vs_Launch] (https://github.com/AnaMMoreira/kickstarter-analysis-AMC/blob/main/Theater_PercentageOutcomes_vs_Launch.png)
 
 ## **Challenges and Difficulties Encountered**
 
