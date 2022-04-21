@@ -9,6 +9,7 @@ She has asked for help analysing available data in order to identify trends that
 budget goals and expectations in order to ensure a successful startup for her new play.  She has calculated her budget needs as follows.
 
 ![image of Fever's Budget] (https://github.com/AnaMMoreira/kickstarter-analysis-AMC/blob/main/Louise-PlayFeverBudget.png)
+!(https://github.com/AnaMMoreira/kickstarter-analysis-AMC/blob/main/Louise-PlayFeverBudget.png)
 
 She has estimated she will need a budget of aproximately $10,000.00 in order to fund the startup of her new play Ferver.
 
