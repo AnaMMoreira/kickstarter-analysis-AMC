@@ -8,7 +8,7 @@
 She has asked for help analysing available data in order to identify trends that will help her set realistic 
 budget goals and expectations in order to ensure a successful startup for her new play.  She has calculated her budget needs as follows.
 
-! [image of Fever's Budget] (https://columbia.bootcampcontent.com/cinzasdanjo-MRNbby/kickstarter-analysis-amc/-/blob/main/Louise-PlayFeverBudget.png)
+! [image of Fever's Budget] (https://github.com/AnaMMoreira/kickstarter-analysis-AMC/Louise-PlayFeverBudget.png)
 
 She has estimated she will need a budget of aproximately $10,000.00 in order to fund the startup of her new play Ferver.
 
